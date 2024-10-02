@@ -16,6 +16,8 @@ json-server --watch db.json --host localhost --port 3000
 
 <!-- รูปภาพตอนออกแบบ -->
 
+ออกแบบ UI เป็นแนวทางในการเขียนโปรแกรม
+
 ![My Image](image_before_after/img_before/image.png)
 
 ![My Image](image_before_after/img_before/image2.png)
@@ -36,6 +38,9 @@ json-server --watch db.json --host localhost --port 3000
 <!-- --------------------------- -->
 
 <!-- รูปภาพหลังจากเสร็จสิ้น -->
+
+โปรแกรมที่ได้หลังจาก Coding
+
 ![My Image](image_before_after/img_after/image.png)
 
 ![My Image](image_before_after/img_after/image1.png)
