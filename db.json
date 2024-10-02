@@ -1,0 +1,462 @@
+{
+  "users": [
+    {
+      "username": "firstlove123",
+      "fullname": "phongsiri keapan",
+      "password": "123456789",
+      "id": "21f0"
+    }
+  ],
+  "data": [
+    {
+      "name": "Skid Row",
+      "location": "Los Angeles, California",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "This area is really dangerous full of homeless \n\n",
+      "lat": 34.043,
+      "long": -118.2517,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Tornado Alley",
+      "location": "Oklahoma, USA",
+      "riskLevel": "High",
+      "dangerType": "Weather",
+      "description": "Area prone to severe tornadoes.",
+      "lat": 35.4676,
+      "long": -97.5164
+    },
+    {
+      "id": "3",
+      "name": "Death Valley",
+      "location": "California, USA",
+      "riskLevel": "High",
+      "dangerType": "Heat",
+      "description": "One of the hottest places on Earth with extreme temperatures.",
+      "lat": 36.4633,
+      "long": -116.8661
+    },
+    {
+      "id": "4",
+      "name": "Brownsville",
+      "location": "Texas, USA",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for drug trafficking and gang violence.",
+      "lat": 25.9017,
+      "long": -97.4975
+    },
+    {
+      "id": "5",
+      "name": "Flint",
+      "location": "Michigan, USA",
+      "riskLevel": "High",
+      "dangerType": "Environmental",
+      "description": "Area affected by lead contamination in the water supply.",
+      "lat": 43.0125,
+      "long": -83.6875
+    },
+    {
+      "id": "6",
+      "name": "Chicago South Side",
+      "location": "Chicago, Illinois",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang violence.",
+      "lat": 41.7356,
+      "long": -87.6298
+    },
+    {
+      "id": "7",
+      "name": "New Orleans Lower Ninth Ward",
+      "location": "New Orleans, Louisiana",
+      "riskLevel": "Moderate",
+      "dangerType": "Flooding",
+      "description": "Prone to flooding and hurricane damage.",
+      "lat": 29.9494,
+      "long": -90.0872
+    },
+    {
+      "id": "8",
+      "name": "San Bernardino",
+      "location": "California, USA",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates and gang activities.",
+      "lat": 34.1083,
+      "long": -117.2898
+    },
+    {
+      "id": "9",
+      "name": "Port Arthur",
+      "location": "Texas, USA",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "High crime rates with frequent violent incidents.",
+      "lat": 29.884,
+      "long": -93.9399
+    },
+    {
+      "id": "10",
+      "name": "Hurricane Katrina Zone",
+      "location": "Louisiana, USA",
+      "riskLevel": "High",
+      "dangerType": "Weather",
+      "description": "Area heavily affected by Hurricane Katrina's aftermath.",
+      "lat": 29.9511,
+      "long": -90.0715
+    },
+    {
+      "id": "11",
+      "name": "Detroit East Side",
+      "location": "Detroit, Michigan",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "High crime rates and economic decline.",
+      "lat": 42.3314,
+      "long": -83.0458
+    },
+    {
+      "name": "Skid Row",
+      "location": "Los Angeles, California",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "This area is really dangerous full of homeless \n\n",
+      "lat": 34.043,
+      "long": -118.2517,
+      "id": "12"
+    },
+    {
+      "id": "13",
+      "name": "Phoenix South Side",
+      "location": "Phoenix, Arizona",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for gang activities and violent crime.",
+      "lat": 33.4484,
+      "long": -112.074
+    },
+    {
+      "id": "14",
+      "name": "Pittsburgh North Side",
+      "location": "Pittsburgh, Pennsylvania",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates and gang-related violence.",
+      "lat": 40.4406,
+      "long": -79.9959
+    },
+    {
+      "id": "15",
+      "name": "Baltimore East Side",
+      "location": "Baltimore, Maryland",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "Known for violent crime and gang activities.",
+      "lat": 39.2904,
+      "long": -76.6122
+    },
+    {
+      "id": "16",
+      "name": "Las Vegas Strip",
+      "location": "Las Vegas, Nevada",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates, especially related to gambling and nightlife.",
+      "lat": 36.1699,
+      "long": -115.1398
+    },
+    {
+      "id": "17",
+      "name": "South Tucson",
+      "location": "Tucson, Arizona",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates and gang activities.",
+      "lat": 32.2226,
+      "long": -110.9747
+    },
+    {
+      "id": "18",
+      "name": "Jackson, Mississippi",
+      "location": "Jackson, Mississippi",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "High crime rates and violent incidents.",
+      "lat": 32.2988,
+      "long": -90.1848
+    },
+    {
+      "id": "19",
+      "name": "Atlanta South Side",
+      "location": "Atlanta, Georgia",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang violence.",
+      "lat": 33.749,
+      "long": -84.388
+    },
+    {
+      "id": "20",
+      "name": "Newark",
+      "location": "Newark, New Jersey",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and economic issues.",
+      "lat": 40.7357,
+      "long": -74.1724
+    },
+    {
+      "id": "21",
+      "name": "Omaha North Side",
+      "location": "Omaha, Nebraska",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang activities.",
+      "lat": 41.2524,
+      "long": -95.998
+    },
+    {
+      "id": "22",
+      "name": "Cleveland East Side",
+      "location": "Cleveland, Ohio",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "High crime rates and gang violence.",
+      "lat": 41.4993,
+      "long": -81.6944
+    },
+    {
+      "id": "23",
+      "name": "Detroit West Side",
+      "location": "Detroit, Michigan",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "High crime rates and economic challenges.",
+      "lat": 42.3314,
+      "long": -83.0458
+    },
+    {
+      "id": "24",
+      "name": "Philadelphia North Side",
+      "location": "Philadelphia, Pennsylvania",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and economic struggles.",
+      "lat": 39.9526,
+      "long": -75.1652
+    },
+    {
+      "id": "25",
+      "name": "Compton",
+      "location": "California, USA",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "High crime rates with frequent violent incidents.",
+      "lat": 33.8958,
+      "long": -118.2201
+    },
+    {
+      "id": "26",
+      "name": "Houston Third Ward",
+      "location": "Houston, Texas",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang violence.",
+      "lat": 29.7604,
+      "long": -95.3698
+    },
+    {
+      "id": "27",
+      "name": "San Juan, Puerto Rico",
+      "location": "San Juan, Puerto Rico",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang activities.",
+      "lat": 18.4655,
+      "long": -66.1057
+    },
+    {
+      "id": "28",
+      "name": "Reno, Nevada",
+      "location": "Reno, Nevada",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang activities.",
+      "lat": 39.5296,
+      "long": -119.8138
+    },
+    {
+      "id": "29",
+      "name": "Baltimore West Side",
+      "location": "Baltimore, Maryland",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "High crime rates and economic issues.",
+      "lat": 39.2904,
+      "long": -76.6122
+    },
+    {
+      "id": "30",
+      "name": "Memphis South Side",
+      "location": "Memphis, Tennessee",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang violence.",
+      "lat": 35.1495,
+      "long": -90.049
+    },
+    {
+      "id": "31",
+      "name": "Sacramento South Side",
+      "location": "Sacramento, California",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates and gang activities.",
+      "lat": 38.5758,
+      "long": -121.4789
+    },
+    {
+      "id": "32",
+      "name": "Tucson South Side",
+      "location": "Tucson, Arizona",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates and gang activities.",
+      "lat": 32.2226,
+      "long": -110.9747
+    },
+    {
+      "id": "33",
+      "name": "Milwaukee North Side",
+      "location": "Milwaukee, Wisconsin",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang activities.",
+      "lat": 43.0389,
+      "long": -87.9065
+    },
+    {
+      "id": "34",
+      "name": "Cincinnati West Side",
+      "location": "Cincinnati, Ohio",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates and economic issues.",
+      "lat": 39.1031,
+      "long": -84.512
+    },
+    {
+      "id": "35",
+      "name": "New Haven",
+      "location": "New Haven, Connecticut",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates and gang violence.",
+      "lat": 41.3083,
+      "long": -72.9279
+    },
+    {
+      "id": "36",
+      "name": "St. Louis North Side",
+      "location": "St. Louis, Missouri",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang violence.",
+      "lat": 38.627,
+      "long": -90.1994
+    },
+    {
+      "id": "37",
+      "name": "Cleveland South Side",
+      "location": "Cleveland, Ohio",
+      "riskLevel": "High",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang activities.",
+      "lat": 41.4993,
+      "long": -81.6944
+    },
+    {
+      "id": "38",
+      "name": "Atlanta West Side",
+      "location": "Atlanta, Georgia",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang activities.",
+      "lat": 33.749,
+      "long": -84.388
+    },
+    {
+      "id": "39",
+      "name": "Boston North End",
+      "location": "Boston, Massachusetts",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates and economic challenges.",
+      "lat": 42.3601,
+      "long": -71.0589
+    },
+    {
+      "id": "40",
+      "name": "Philadelphia South Side",
+      "location": "Philadelphia, Pennsylvania",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates and gang activities.",
+      "lat": 39.9526,
+      "long": -75.1652
+    },
+    {
+      "id": "41",
+      "name": "Rochester South Side",
+      "location": "Rochester, New York",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and economic issues.",
+      "lat": 43.161,
+      "long": -77.6109
+    },
+    {
+      "id": "42",
+      "name": "San Diego South Side",
+      "location": "San Diego, California",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates and gang activities.",
+      "lat": 32.7157,
+      "long": -117.1611
+    },
+    {
+      "id": "43",
+      "name": "Kansas City North Side",
+      "location": "Kansas City, Missouri",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "Known for high crime rates and gang violence.",
+      "lat": 39.0997,
+      "long": -94.5786
+    },
+    {
+      "id": "44",
+      "name": "Indianapolis East Side",
+      "location": "Indianapolis, Indiana",
+      "riskLevel": "Moderate",
+      "dangerType": "Crime",
+      "description": "High crime rates and gang activities.",
+      "lat": 39.7684,
+      "long": -86.1581
+    },
+    {
+      "name": "Buffalo East Side",
+      "location": "Buffalo, New York",
+      "riskLevel": "High",
+      "dangerType": "Economic",
+      "description": "High crime rates and economic challenges.",
+      "lat": 42.8864,
+      "long": -78.8784,
+      "id": "45"
+    }
+  ]
+}
